@@ -49,6 +49,3 @@
 *.sln.DotSettings.user
 
 /Asset
-
-#Content Files
-Content/
