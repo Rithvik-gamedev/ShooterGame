@@ -214,9 +214,10 @@ Uses Unreal's Enhanced Input System with an `UInputMappingContext` assigned to t
 | Shoot | Left mouse button / right trigger |
 | Aim | Right mouse button / left trigger |
 | Reload | R key |
-| Crouch | C key |
+| Crouch | Left Ctrl key |
 | Equip / Interact | E key |
-| Quick Slot 0-5 | Number keys 0 through 5 |
+| Quick Slot 1-5, F | Number keys 1 through 5 |
+| Pause Game| Esc |
 
 ---
 
